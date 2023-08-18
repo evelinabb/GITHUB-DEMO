@@ -15,3 +15,5 @@ new line with text
 
 new line
 >>>>>>> 05984fd (jkcsch)
+
+ok how about now
